@@ -1,4 +1,1 @@
-paths-ignore:
-  - '**/node_modules'
-  - tools/github-actions/*/packaged-action
-  - packages/**/templates/
+
